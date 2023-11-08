@@ -1,5 +1,5 @@
 import time
-
+hola="hola"
 def mensaje_centrado(texto):
     # Obtén el ancho de la terminal actual
     terminal_ancho = 160
