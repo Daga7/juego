@@ -94,3 +94,4 @@ def main():
 #prueba juego 
 if __name__ == "__main__":
     main()
+suma=a+b
