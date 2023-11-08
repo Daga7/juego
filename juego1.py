@@ -1,0 +1,12 @@
+codigo_estudiante = input("Ingrese el código del estudiante: ")
+nombre_estudiante = input("Ingrese el nombre del estudiante: ")
+nota1 = float(input("Ingrese la nota 1: "))
+nota2 = float(input("Ingrese la nota 2: "))
+nota3 = float(input("Ingrese la nota 3: "))
+promedio_notas = (nota1 + nota2 + nota3) / 3
+print("Código del estudiante:", codigo_estudiante)
+print("Nombre del estudiante:", nombre_estudiante)
+print("Nota 1:", nota1)
+print("Nota 2:", nota2)
+print("Nota 3:", nota3)
+print("Promedio de las notas:", promedio_notas)
